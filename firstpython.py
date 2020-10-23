@@ -1,2 +1,2 @@
 # This is a useless file
-print('useless file')
+print('totally useless file')
